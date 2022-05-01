@@ -1,0 +1,28 @@
+HOW TO SHARE CODES FROM ECLIPSE TO GITHUB
+
+
+1. Enter GITHUB and select the required repository where we want to PUSH the code
+
+2. Open ECLIPSE ----> WINDOWS ----> SHOW VIEWS ---> OTHERS ---> GIT ---> GIT REPOSITORY ---> OK
+
+3. Now we can able to see the GIT REPOSITORY tab some where on the screen depends on the ECLIPSE version that we are using
+
+4. From that tab select CLONE A GIT REPOSITORY icon
+
+5. Since we have copied the URL in step 1 all the detailes would have been automatically filled here so just click NEXT (GIVE AUTHENTICATION IF NEEDED)
+
+6. Select the required branch and click NEXT
+
+7. Click FINISH button
+
+8. Now the code would have been moved to local repository (Which means it has not yet pushed to centralized repository)
+
+9. From package explorer right click on the project what we want to push ---> Team ---> Share Project ---> Select GIT ---> Next ---> REPOSITORY : >>SELECT THE REQUIRED PROJECT<< ---> Finish 
+
+10. Now in package explorer we can see question mark sympol (?) on the project what we are going to push  
+
+11. Again right click on the project what we want to push ---> Team ---> Add to index
+
+12. Now in package explorer we can see Plus sympol (+) or (*) on the project what we are going to push 
+
+13. 
